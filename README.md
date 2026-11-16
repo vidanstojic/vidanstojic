@@ -1,6 +1,6 @@
 ## Hi, I'm Vidan 👋
 
-Final-year software engineering student at the School of Computing (RAF) in Belgrade. I build Android apps and backend services, and I like knowing what runs underneath them: I've also written a compiler and changed an operating system kernel.
+Software engineering student at the School of Computing (RAF) in Belgrade, one exam away from graduating. I build Android apps and backend services, and I like knowing what runs underneath them: I've also written a compiler and changed an operating system kernel.
 
 🌐 **Portfolio:** [vidanstojic.me](https://vidanstojic.me) · 💼 [LinkedIn](https://www.linkedin.com/in/vidan-stoji%C4%87-57166032b/) · ✉️ vidan.stojic@gmail.com
 
